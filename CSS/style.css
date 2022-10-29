@@ -36,7 +36,7 @@
 }
 
 #endereco {
-    padding-top: 10px;
+    padding-top: 15%;
     padding-left: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 19px;
@@ -105,9 +105,9 @@
 }
 
 #conhecimentos {
+    padding-top: 15%;
+    padding-left: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #791a78;
-    margin-left: 40px;
-    margin-top: 200px;
     font-size: 40px;
+    color: #791a78;
 }
